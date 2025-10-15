@@ -5,3 +5,6 @@
 - Oops
 - Solid Principles
 - Design Patterns
+- LLD Concepts
+- HLD Concepts
+- Problems
