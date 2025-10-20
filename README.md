@@ -8,3 +8,14 @@
 - LLD Concepts
 - HLD Concepts
 - Problems
+
+## Language Used
+
+- Typescript
+
+## To run the programs
+
+```bash
+npx tsc file-name.ts
+node file-name.js
+```
